@@ -1,0 +1,20 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+.head_1,.head_2,.head_3,.body,.foot{
+	width:1200px;
+	margin:0 auto;
+	overflow:hidden;
+}
+.body_1,.body_2,.body_3{
+	width:950px;
+	margin:0 auto;
+	overflow:hidden;
+}
+
+a{
+	text-decoration:none;
+	color:black;
+}
