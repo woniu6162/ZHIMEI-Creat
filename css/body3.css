@@ -1,0 +1,106 @@
+/* 身体部分_ 左边客服小盒子 */
+
+.body_1{
+	width:210px;
+	float:left;
+	overflow:hidden;
+	margin:30px 0 0 130px;
+}
+.body_1 .box_1{
+	border-bottom:2px solid gray;
+}
+.body_1 .box_1>p{
+	margin-left:10px;
+	margin-bottom:10px;
+}
+.body_1 .box_2{
+	border-bottom:2px dotted gray;	
+}
+.body_1 .hid{
+	overflow:hidden;
+}
+.qq,.clock,.wc{
+	float:left;
+	margin-top:5px;
+}
+.body_1 .box_2 a{
+	float:left;
+	margin-left:10px;
+	margin-top:8px;
+	font-size:15px;
+}
+.body_1 .box_3{
+	border-bottom:2px dotted gray;	
+}
+
+.body_1 .p2{
+	float:left;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:18px;
+}
+.body_1 .p1{
+	margin-bottom:10px;
+}
+
+
+/* 身体部分_ 右边客服小盒子 */
+.body_2{
+	width:800px;
+	float:right;
+	overflow:hidden;
+	margin-top:40px;
+}
+.body_2>h2{
+	width:210px;
+	margin:0 auto;
+}
+.body_2>p{
+	width:128px;
+	margin:10px auto;
+	overflow:hidden;
+}
+.body_2 .charge1{
+	overflow:hidden;
+	border-bottom:2px dotted gray;
+}
+.body_2 .b1{
+	float:left;
+	overflow:hidden;
+	margin: 3px 12px;
+}
+.body_2 .b2{
+	width:720px;
+	float:right;
+	overflow:hidden;
+}
+.body_2 .line1{
+	float:left;
+	margin-left:10px;
+}
+.body_2 .line1>div{
+	float:left;
+}
+.body_2 .line1>a{
+	float:left;
+	margin-top:3px;
+}
+
+/* 上面的logo终于搞定，出了鬼 */
+
+.body_3{
+	width:710px;
+	float:left;
+	margin-top:20px;
+}
+.body_3 .p1{
+	margin-bottom:20px;
+	text-indent:2em;
+}
+.body_3 .flip{
+	width:180px;
+	margin:0 auto;
+}
+.body_3 input{	
+	margin-left:30px;
+}
